@@ -14,7 +14,7 @@ sh-6.9$ /bin/bash -i
 
 
 ### `~# cat AboutMe`
-<a href="#"><img align="right" height=290 src="./assets/tux.svg"></a>
+<a href="#"><img align="right" height=290 src="(https://upload.wikimedia.org/wikipedia/commons/2/2b/Tux-simple.svg)"></a>
 
 - I am a **student** 📚
 - I am from **Bangladesh** 🇧🇩 
