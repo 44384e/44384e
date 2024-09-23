@@ -1,4 +1,4 @@
-<h2>Howdy , it's <i>44424e 👋</i></h2>
+<h2>Howdy , it's <i>44384e 👋</i></h2>
 Passionate <b>GNU/Linux</b> enthusiast with a little coding experience.
 <br /><br />
 
